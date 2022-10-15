@@ -11,7 +11,7 @@ sudo apt install -y language-pack-ja
 
 # ロケールを日本語に設定
 echo ">> ロケールを日本語に設定します..."
-sudo update-locale LANG=ja_JP.UTF8
+sudo update-locale LANG=ja_JP.UTF-8
 
 # 日本語マニュアルをインストール
 echo ">> 日本語マニュアルをインストールします..."
