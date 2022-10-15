@@ -21,3 +21,6 @@ sudo apt install -y manpages-ja manpages-ja-dev
 echo ">> Git の初期設定を行います..."
 git config --global user.name "grtw2116"
 git config --global user.email "taru0116@gmail.com"
+
+# 完了
+echo ">> 初期設定が完了しました．再起動を行ってください"
